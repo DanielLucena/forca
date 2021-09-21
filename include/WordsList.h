@@ -6,12 +6,15 @@
 #include <fstream>
 
 class WordsList{
-    public:
+    private:
         std::vector<std::string> words; //<! Lista de palavras que podem ser sorteadas
 
-        int wordLength;
-
     public:
+
+    /**
+    * @brief construtor padrão
+    **/
+    WordsList();
 
     WordsList(std::string filepath);
 
@@ -19,8 +22,11 @@ class WordsList{
 
     std::string random_word();
 
+    bool hasWords();
+
     //test functions
     void SpitWords();
+
 };
 
 

@@ -1,0 +1,25 @@
+joaozinho; oi,sim,katchaum,; 10
+joaozinho; oi,sim,katchaum,; 10
+joaozinho; oi,sim,katchaum,; 10
+joaozinho; oi,sim,katchaum,; 10
+joaozinho; oi,sim,katchaum,; 10
+joaozinho; oi, sim, katchaum; 0
+daniel; oi, sim, katchaum; 0
+daniel; oi, sim, katchaum; 0
+daniel; oi, sim, katchaum; 0
+daniel; oi, sim, katchaum; 0
+daniel; oi, sim, katchaum, CASA; 0
+daniel; oi, sim, katchaum; 0
+alsals; oi, sim, katchaum, CASA, APARTAMENTO; 0
+daniel; oi, sim, katchaum, CARRO; 8
+adada; APARTAMENTO; 12
+ola; APARTAMENTO; 12
+daniel; APARTAMENTO, CARRO, CASA; 25
+daniel; CAR, CASA, AP; 18
+bia; -4
+danniel; -3
+danei;; MENTA; 3
+\; 0
+Daniel; IMPACTO; 4
+tr; -2
+daniel; -2
